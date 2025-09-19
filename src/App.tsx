@@ -1,5 +1,5 @@
 import FoodCard from "./components/FoodCard";
-import PizzaImg from "../src/images/Pizza.svg";
+import PizzaImg from "../src/images/pizza.svg";
 import PastaImg from "../src/images/pasta.svg";
 import CakeImg from "../src/images/cake.svg";
 import fireIcon from "../src/images/fireIcon.svg";
